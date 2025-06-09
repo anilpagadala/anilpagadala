@@ -6,7 +6,7 @@ Currently exploring more into **MERN stack**, **Python**, and **Machine Learning
 
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced backend development and cloud technologies.
-- 🛠️ Skills: **JavaScript | SQL | React | Node.js | Express | MongoDB | Python | numpy | pandas | Django | JAVA**
+- 🛠️ Skills: **JavaScript | SQL | React | Node.js | Express | MongoDB | RESTful API | Python | numpy | pandas | Django | JAVA**
 - 📚 Interests: Full Stack Web Development, AI/ML, Open Source, and Tech Communities.
 - 🧩 Always excited to collaborate on interesting tech projects and innovative ideas.
 
@@ -22,10 +22,33 @@ Currently exploring more into **MERN stack**, **Python**, and **Machine Learning
 > "Code is like humor. When you have to explain it, it’s bad." 😄
 
 ---
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anilpagadala&show_icons=true&theme=radical)
+## 🏆 Personal Projects
+
+**Language Translator Web Application**&nbsp;&nbsp; [**LINK**](https://github.com/anilpagadala/Language-transulator.git)
+- Created a user-friendly language translator web application using HTML, CSS, JavaScript, and Node.js, facilitating translation across multiple languages.
+- Designed an intuitive interface with real-time translation features to improve user experience and accessibility.
+---
+**Auction Bidding Platform**&nbsp;&nbsp; [**LINK**](https://github.com/anilpagadala/starkbid.git)
+- Built a real-time auction platform using the MERN stack (MongoDB, Express.js, React, Node.js) and Vite, enabling seamless bidding for 100+ concurrent users.
+- Designed and implemented a secure authentication system and optimized backend performance, resulting in a 20% reduction in latency.
+---
+**Silicon-wafer defect detection**&nbsp;&nbsp; [**LINK**](https://github.com/anilpagadala/silicon-wafer-defect-detection.git)
+- Developed a machine learning model using Convolutional Neural Networks (CNNs) and VGG16 to detect defects in silicon wafers, achieving 97% accuracy.
+- Designed a Tkinter GUI for user-friendly image uploads and real-time defect analysis.
+- Integrated OpenCV and Scikit-learn for image preprocessing and model evaluation.
+---
+
+## ⭐ Support & Collaboration
+
+If you like my work, feel free to ⭐️ the repositories.  
+I’m always open to learning, collaborating on interesting projects, and contributing to open source!
 
 ---
-<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilpagadala&show_icons=true&locale=en&layout=compact" alt="anilpagadala" /></p>
+## Fun Fact
+
+I enjoy exploring emerging web technologies and love building side projects to sharpen my skills 🚀.
+
+---
+
+Thanks for visiting my profile — Happy Coding! 🎉
