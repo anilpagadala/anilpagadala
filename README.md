@@ -28,6 +28,10 @@ Currently exploring more into **MERN stack**, **Python**, and **Machine Learning
 - Created a user-friendly language translator web application using HTML, CSS, JavaScript, and Node.js, facilitating translation across multiple languages.
 - Designed an intuitive interface with real-time translation features to improve user experience and accessibility.
 ---
+**RestaurantWebApp**&nbsp;&nbsp; [**LINK**](https://github.com/anilpagadala/Restaurantproject.git)
+- Developed a responsive Restaurant Website using Django and Bootstrap with features like menu, table booking, and feedback.  
+- Focused on clean UI design and mobile compatibility to enhance user experience.
+---
 **Auction Bidding Platform**&nbsp;&nbsp; [**LINK**](https://github.com/anilpagadala/starkbid.git)
 - Built a real-time auction platform using the MERN stack (MongoDB, Express.js, React, Node.js) and Vite, enabling seamless bidding for 100+ concurrent users.
 - Designed and implemented a secure authentication system and optimized backend performance, resulting in a 20% reduction in latency.
