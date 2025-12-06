@@ -19,7 +19,7 @@ Currently exploring more into **MERN stack**, **Python**, and **Machine Learning
 <a href="https://www.leetcode.com/anilpagadala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anilpagadala" height="30" width="40" /></a>
 </p>
 <br>
-> "Code is like humor. When you have to explain it, it’s bad." 😄
+
 
 ---
 ## 🏆 Personal Projects
@@ -51,8 +51,8 @@ I’m always open to learning, collaborating on interesting projects, and contri
 
 ## Fun Fact
 
-I enjoy exploring emerging web technologies and love building side projects to sharpen my skills 🚀.
+I enjoy exploring emerging web technologies and love building side projects to sharpen my skills.
 
 ---
 
-Thanks for visiting my profile — Happy Coding! 🎉
+Thanks for visiting my profile - Happy Coding! 🎉
